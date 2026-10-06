@@ -17,7 +17,10 @@ nav?.querySelectorAll("a").forEach((link) => {
   });
 });
 
-const targets = document.querySelectorAll(".brand-card, .company-grid, .capability-grid article, .manifesto h2");
+const targets = document.querySelectorAll(
+  ".platform-card, .component-card, .company-grid, .journey-grid > div, .capability-grid article, .manifesto h2"
+);
+
 targets.forEach((el) => el.classList.add("reveal"));
 
 const observer = new IntersectionObserver(
