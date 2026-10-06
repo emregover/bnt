@@ -363,7 +363,7 @@ strong{color:#f4f4ef}
   opacity:.14;
   transition:.3s;
 }
-.ai-card:before{background:var(--violet)}
+.ai-card:before{background:var(--violet)}\n.ai-card .component-role{margin-top:16px}
 .market-card:before{background:var(--blue)}
 .r4a-card:before{background:var(--rose)}
 .card-top{
@@ -641,7 +641,7 @@ footer{
   .product-grid{grid-template-columns:repeat(3,1fr)}
   .component-card{min-height:480px;padding:21px}
   .component-wordmark{font-size:32px}
-  .r4a-logo-wrap{min-height:125px}
+  .influensi-logo-wrap{min-height:145px}\n  .influensi-logo-wrap img{min-height:145px}\n  .r4a-logo-wrap{min-height:125px}
   .journey-grid{grid-template-columns:repeat(4,1fr)}
   .journey-grid>div{min-height:210px}
   .capability-grid{grid-template-columns:repeat(3,1fr)}
@@ -754,7 +754,7 @@ footer{
   .component-card:hover:before{opacity:.27}
   .component-icon{margin-top:54px}
   .component-wordmark{font-size:39px;margin-top:28px}
-  .r4a-logo-wrap{margin-top:47px;min-height:140px}
+  .influensi-logo-wrap{margin-top:47px;min-height:160px}\n  .influensi-logo-wrap img{min-height:160px}\n  .r4a-logo-wrap{margin-top:47px;min-height:140px}
   .r4a-logo-wrap img{height:118px}
   .journey-inner{padding:95px 28px}
   .journey-grid{margin-top:38px}
